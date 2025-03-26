@@ -1,6 +1,6 @@
 import telebot
 
-chave_API = "7808569120:AAEAGDUrR-89Khc7NTUo4XZJq5l6piGSU08"
+chave_API = "Sua API"
 bot = telebot.TeleBot(chave_API)
 
 @bot.message_handler(commands=["sobre"])

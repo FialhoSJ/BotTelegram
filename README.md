@@ -26,7 +26,7 @@ cd nome-do-repositorio
 pip install pyTelegramBotAPI
 </ul> 
 <ul>
-pip instakk telebot
+pip install telebot
 </ul>
 
 <ul>3. Substitua a chave da API do bot pela sua chave no código:
